@@ -24,3 +24,4 @@ jobs:
             python tools/verify_channel.py channel.json
           else
             echo "Initial repository has no published channel yet."
+          fi
