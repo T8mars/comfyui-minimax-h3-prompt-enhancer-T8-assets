@@ -23,8 +23,8 @@ and stores them under the active ComfyUI user directory.
 python tools/build_preview_release.py `
   --source-manifest path/to/web/js/assets/t8-case-previews/manifest.json `
   --source-dir path/to/web/js/assets/t8-case-previews `
-  --version 2026.08.29.2 `
-  --output dist/2026.08.29.2
+  --version 2026.08.30.1 `
+  --output dist/2026.08.30.1
 ```
 
 The generated channel is deterministic for the same input, version, repository,
